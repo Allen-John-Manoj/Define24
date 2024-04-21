@@ -12,7 +12,7 @@ The symptom checker chatbot, developed using Python and Flask, is a sophisticate
 [4. Fabio Joby](natsu101101)   
 
 ### Link to Project
-[Embed the live link of project](live_link)
+https://drive.google.com/file/d/1D7jzordOre2vhAqU5QOvIBvtdY2eCKdR/view?usp=sharing
 
 ### How it Works ?
 Frontend: The frontend of the symptom checker chatbot project involves designing a user-friendly interface using HTML, CSS, and JavaScript, with Flask serving as the backend API provider. HTML provides the structure of the web pages, while CSS styles them for a visually appealing look. JavaScript adds interactivity, enabling features such as form validation and dynamic content updates. Flask routes requests from the frontend to the appropriate backend functions for processing, ensuring a seamless user experience. The frontend design prioritizes simplicity and clarity, guiding users through the symptom input process and presenting the results in an easily understandable format.
@@ -28,10 +28,10 @@ CSS
 JavaScript
 
 ### How to configure
-
+In our project the user will provide symptoms of their illness or dicomfort as a Yes or No answer where the questions are provided by the system based on the database.When all symptoms matchhes to a diseasee then the system will the disease name,treatment details and other details about the disease.
 
 ### How to Run
-Instructions for running
+The running of the software based on comparing the details fo symptoms provided by the user and the existing dataset present in the Kaggle website.By this comparison off the information we reach into a conclusion where the disease name ,details about the disease will be specified.
 
 ### Other Links
-Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )
+Presentation : https://docs.google.com/presentation/d/1MZYAfWSU5l_BN8UmtpOZmvH1s7r8YCcq/edit?usp=sharing&ouid=108703370961217708236&rtpof=true&sd=true
